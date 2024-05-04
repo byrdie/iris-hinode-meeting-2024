@@ -8,7 +8,7 @@ These overlappograms are then inverted (in a process analogous to computed
 tomography) to retrieve a hyperspectral image of the solar atmosphere.
 
 In this work, we present a convolutional neural network (CNN) that has been
-trained to invert ESIS overlappograms using Si IV 1394 A observations from the 
+trained to invert ESIS overlappograms using Si IV 1394 Å observations from the 
 Interface Region Imaging Spectrograph (IRIS) as a proxy for the O V 630 A 
 spectral line observed by ESIS. 
 We will use this CNN to invert observations gathered during the 2019 flight of
