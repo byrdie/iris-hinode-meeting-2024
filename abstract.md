@@ -1,5 +1,5 @@
 The EUV Snapshot Imaging Spectrograph (ESIS) is a sounding rocket instrument
-designed to capture a moderate-resolution hyperspectral image of the solar 
+designed to capture a  hyperspectral image of the solar 
 transition region over a wide field of view in a single exposure.
 ESIS achieves this by using four identical slitless spectrographs, each oriented
 with a different dispersion direction, to capture four different "overlappogams"
