@@ -1,3 +1,5 @@
+# Inverting ESIS Observations of the Solar Transition Region using Convolutional Neural Networks
+
 The EUV Snapshot Imaging Spectrograph (ESIS) is a sounding rocket instrument
 designed to capture a hyperspectral image of the solar 
 transition region over a wide field of view in a single exposure.
